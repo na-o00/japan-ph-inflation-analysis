@@ -21,6 +21,9 @@ World Bank Open Data
 Inflation in the Philippines tended to be more volatile than Japan.
 The two countries showed a weak positive correlation in inflation trends.
 
+## Visualization
+![Inflation Analysis](inflation_analysis.png)
+
 ## Future Improvements
 Add ASEAN country comparisons
 Create prediction models
