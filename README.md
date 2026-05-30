@@ -1,5 +1,5 @@
-# japan-ph-inflation-analysis
-A Python project analyzing inflation trends in Japan and the Philippines using real-world economic data.
+# Japan vs Philippines Inflation Analysis
+This project compares inflation trends between Japan and the Philippines using World Bank data and Python.
 
 ## Tools Used
 * Python
