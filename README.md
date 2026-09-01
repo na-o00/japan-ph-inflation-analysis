@@ -22,18 +22,14 @@ The project was created to explore how two economies in the Asia-Pacific region 
 * NumPy
 
 ## Analysis
-### 1. Inflation Trend Comparison
+### 1. Inflation Rate Comparison
 Compares annual inflation rates between Japan and the Philippines over time.
 ### 2. Moving Average Analysis
 Uses moving averages to reduce short-term fluctuations and make longer-term trends easier to observe
 ### 3. Inflation Gap
 Calculates the differences between Japan and the Philippines inflation:
 **Japan Inflation - Philippines Inflation**
-### 4. Growth Rate Analysis
-Examines year-to-year changes in inflation
-### 5. Inflation Ratio
-Compares the relative level of inflation between the two countries
-### 6. Correlation Analysis
+### 4. Correlation Analysis
 Uses a scatter plot, correlation coefficient, and linear regression to examine the relationship between inflation in Japan and the Philippines
 
 ## Key Findings
@@ -44,9 +40,17 @@ Uses a scatter plot, correlation coefficient, and linear regression to examine t
 * Short-term movements in inflation did not always move in the same direction between the two countries.
 
 ## Visualization
-### Inflation Trends
-![Inflation Analysis](inflation_analysis.png)
-The visualization compares inflation levels, moving averages, the inflation gap, growth rates, ratios, and the relationship between Japan and the Philippines.
+### Inflation Rate Comparison
+![Inflation Comparison](images/inflation_comparison.png)
+
+### 5-Year Moving Average
+![Inflation Moving Average](images/inflation_moving_average.png)
+
+### Inflation Gap
+![Inflation Gap](images/inflation_gap.png)
+
+### Relationship Between Japanese and Philippine Inflation
+![Inflation Correlation](images/inflation_correlation.png)
 
 ## Limitations
 Some calculations, particularly growth rates and ratios, can become unstable when the original inflation value is close to zero.
