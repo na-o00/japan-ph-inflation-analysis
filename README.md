@@ -1,6 +1,6 @@
 # Japan vs Philippines Inflation Analysis
 This project compares inflation trends between Japan and the Philippines using historical economic data and Python.
-The analysis examines differences in inflation levels, long-term trends, moving averages, year-to-year changes, and the relationship between inflation in the two countries.
+The analysis examines differences in inflation levels, long-term trends, moving averages, inflation gaps, and the relationship between inflation in the two countries.
 The project was created to explore how two economies in the Asia-Pacific region experienced different inflation patterns over time.
 
 ## Research Question
